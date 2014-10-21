@@ -18,7 +18,7 @@ insta.list_app()             #List all apps
 
 insta.add_app(title='title') #Create a app named title
 
-app = App(app_id='xxxx', secret='xxxx')
+app = App(appid='xxxx', secret='xxxx')
 
 app.list_event()             #List all event
 
