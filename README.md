@@ -1,7 +1,7 @@
 Instapush-py
 ============
 
-a Python wrapper for the Instapaper API.
+a Python wrapper for the Instapush API.
 
 #Installation
 ```Shell
